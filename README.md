@@ -19,7 +19,7 @@ For the next 100 days, I’ll be revising and mastering ML/DS concepts and shari
 
 | Day | Topic | Notebook | LinkedIn |
 |-----|-------|----------|----------|
-| 01 | Python Basics & Setup | [Notebook 🔗](#) | [Post 🔗](#) 
+| 01 | Python Basics & Setup | [Notebook 🔗](https://github.com/venkatanaresh4285/100Days-Of-ML/blob/main/Basics_Of_Python.ipynb) | [Post 🔗]() 
 
 > 📌 I will update this table every day with links to notebooks and posts.
 
