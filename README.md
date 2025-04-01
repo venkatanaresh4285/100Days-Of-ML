@@ -20,7 +20,7 @@ For the next 100 days, I’ll be revising and mastering ML/DS concepts and shari
 | Day | Topic | Notebook | LinkedIn |
 |-----|-------|----------|----------|
 | 01 | Python Basics & Setup | [Notebook 🔗](https://github.com/venkatanaresh4285/100Days-Of-ML/blob/main/Basics_Of_Python.ipynb) | [Post 🔗](https://www.linkedin.com/posts/nandarapu-venkata-naresh_venkatanaresh4285-overview-activity-7312128469419601920-zola?utm_source=share&utm_medium=member_desktop&rcm=ACoAADknYJ8BI-QfAp1FPWy6KMoW_sjOu7WdxUY) 
-| 02 | Data Structures,OOPS | [Notebook 🔗](https://github.com/venkatanaresh4285/100Days-Of-ML/blob/main/Day2.Python_Datastructures_OOPS.ipynb) | [Post 🔗]
+| 02 | Data Structures,OOPS | [Notebook 🔗](https://github.com/venkatanaresh4285/100Days-Of-ML/blob/main/Day2.Python_Datastructures_OOPS.ipynb) | [Post 🔗](https://www.linkedin.com/posts/nandarapu-venkata-naresh_100daysofdatascience-python-oop-activity-7312504026393124866-iOix?utm_source=share&utm_medium=member_desktop&rcm=ACoAADknYJ8BI-QfAp1FPWy6KMoW_sjOu7WdxUY)
 | 03 | OOPS and Exception Handling | [Notebook 🔗](https://github.com/venkatanaresh4285/100Days-Of-ML/blob/main/Day2.Python_Datastructures_OOPS.ipynb) | [Post 🔗]
 
 > 📌 I will update this table every day with links to notebooks and posts.
